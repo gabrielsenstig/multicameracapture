@@ -5,9 +5,12 @@ Tested this using multiple of Huddly USB cameras.
 
 
 
-Clone repository.
+Clone repository
+
 cd multicameracapture
+
 pip install requirements
+
 python capture.py -s serialnumberofthecamera
 
 
